@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-antresola-1loft-1",
-      "name": "antresola 1(Loft 1)",
+      "name": "Antresola 1(Loft 1)",
       "levels": [
         {
           "tileSize": 256,
@@ -46,7 +46,7 @@ var APP_DATA = {
     },
     {
       "id": "1-antresola-1loft-2",
-      "name": "antresola 1(Loft 2)",
+      "name": "Antresola 1(Loft 2)",
       "levels": [
         {
           "tileSize": 256,
