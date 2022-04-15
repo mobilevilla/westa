@@ -215,7 +215,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "Westa",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": true,
